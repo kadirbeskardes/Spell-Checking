@@ -15,7 +15,7 @@ Yazım Denetleyici, Türkçe metinlerde yazım hatalarını tespit edip düzelte
 
 1. Bu depoyu yerel makinenize klonlayın:
     ```bash
-    git clone https://github.com/yourusername/spell-checker.git
+    git clone https://github.com/kadirbeskardes/spell-checker.git
     ```
 2. Gerekli Python paketlerini yükleyin:
     ```bash
