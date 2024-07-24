@@ -48,7 +48,3 @@ Yazım Denetleyici, Türkçe metinlerde yazım hatalarını tespit edip düzelte
 3. Değişikliklerinizi commitleyin (`git commit -m 'AmazingFeature ekledim'`).
 4. Dalınıza push edin (`git push origin özellik/AmazingFeature`).
 5. Bir Pull Request açın.
-
-## Lisans
-
-Bu proje MIT Lisansı ile lisanslanmıştır - daha fazla bilgi için `LICENSE` dosyasına bakın.
